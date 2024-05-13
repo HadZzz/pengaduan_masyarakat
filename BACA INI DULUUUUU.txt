@@ -1,0 +1,11 @@
+Admin
+Username	: rey
+Pass		: rayhansa
+
+Petugas
+Username	: petugas
+Pass		: 123456
+
+Masyarakat
+Username	: masyarakat
+Pass		: 123456
